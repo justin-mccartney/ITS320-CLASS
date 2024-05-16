@@ -30,7 +30,7 @@ Print statistics
 # Initialize values
 total = 0
 maximum = float('-inf')
-minimum = float('-inf')
+minimum = float('inf')
 
 # Reading grades from user input
 for i in range(5):
