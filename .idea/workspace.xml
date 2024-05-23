@@ -4,9 +4,9 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="788559c0-dce3-4e31-8146-1bc83de4384c" name="Changes" comment="Commit #4">
+    <list default="true" id="788559c0-dce3-4e31-8146-1bc83de4384c" name="Changes" comment="Commit #4.5">
+      <change afterPath="$PROJECT_DIR$/ITS320-CTA5-OPTION2.py" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/ITS320-CTA4-OPTION2.py" beforeDir="false" afterPath="$PROJECT_DIR$/ITS320-CTA4-OPTION2.py" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -44,21 +44,22 @@
     <option name="hideEmptyMiddlePackages" value="true" />
     <option name="showLibraryContents" value="true" />
   </component>
-  <component name="PropertiesComponent">{
-  &quot;keyToString&quot;: {
-    &quot;Python.ITS315-CTA2-OPTION2.executor&quot;: &quot;Run&quot;,
-    &quot;Python.ITS320-CTA1-OPTION2.executor&quot;: &quot;Run&quot;,
-    &quot;Python.ITS320-CTA3-OPTION2.executor&quot;: &quot;Run&quot;,
-    &quot;RunOnceActivity.ShowReadmeOnStart&quot;: &quot;true&quot;,
-    &quot;git-widget-placeholder&quot;: &quot;main&quot;,
-    &quot;node.js.detected.package.eslint&quot;: &quot;true&quot;,
-    &quot;node.js.detected.package.tslint&quot;: &quot;true&quot;,
-    &quot;node.js.selected.package.eslint&quot;: &quot;(autodetect)&quot;,
-    &quot;node.js.selected.package.tslint&quot;: &quot;(autodetect)&quot;,
-    &quot;nodejs_package_manager_path&quot;: &quot;npm&quot;,
-    &quot;vue.rearranger.settings.migration&quot;: &quot;true&quot;
+  <component name="PropertiesComponent"><![CDATA[{
+  "keyToString": {
+    "Python.ITS315-CTA2-OPTION2.executor": "Run",
+    "Python.ITS320-CTA1-OPTION2.executor": "Run",
+    "Python.ITS320-CTA3-OPTION2.executor": "Run",
+    "Python.ITS320-CTA5-OPTION2.executor": "Run",
+    "RunOnceActivity.ShowReadmeOnStart": "true",
+    "git-widget-placeholder": "main",
+    "node.js.detected.package.eslint": "true",
+    "node.js.detected.package.tslint": "true",
+    "node.js.selected.package.eslint": "(autodetect)",
+    "node.js.selected.package.tslint": "(autodetect)",
+    "nodejs_package_manager_path": "npm",
+    "vue.rearranger.settings.migration": "true"
   }
-}</component>
+}]]></component>
   <component name="RecentsManager">
     <key name="MoveFile.RECENT_KEYS">
       <recent name="$PROJECT_DIR$" />
@@ -88,7 +89,8 @@
       <workItem from="1714971837966" duration="970000" />
       <workItem from="1715575973809" duration="977000" />
       <workItem from="1715577141920" duration="58000" />
-      <workItem from="1715886911510" duration="59000" />
+      <workItem from="1715886911510" duration="90000" />
+      <workItem from="1716498586421" duration="1699000" />
     </task>
     <task id="LOCAL-00001" summary="Commit #1">
       <option name="closed" value="true" />
@@ -130,7 +132,15 @@
       <option name="project" value="LOCAL" />
       <updated>1715577183854</updated>
     </task>
-    <option name="localTasksCounter" value="6" />
+    <task id="LOCAL-00006" summary="Commit #4.5">
+      <option name="closed" value="true" />
+      <created>1715886989688</created>
+      <option name="number" value="00006" />
+      <option name="presentableId" value="LOCAL-00006" />
+      <option name="project" value="LOCAL" />
+      <updated>1715886989688</updated>
+    </task>
+    <option name="localTasksCounter" value="7" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -141,11 +151,13 @@
     <MESSAGE value="Commit #2" />
     <MESSAGE value="Commit #3" />
     <MESSAGE value="Commit #4" />
-    <option name="LAST_COMMIT_MESSAGE" value="Commit #4" />
+    <MESSAGE value="Commit #4.5" />
+    <option name="LAST_COMMIT_MESSAGE" value="Commit #4.5" />
   </component>
   <component name="com.intellij.coverage.CoverageDataManagerImpl">
     <SUITE FILE_PATH="coverage/ITS320_CLASS$ITS320_CTA1_OPTION2.coverage" NAME="ITS320-CTA1-OPTION2 Coverage Results" MODIFIED="1713646509537" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
     <SUITE FILE_PATH="coverage/ITS320_CLASS$ITS315_CTA2_OPTION2.coverage" NAME="ITS315-CTA2-OPTION2 Coverage Results" MODIFIED="1714339320131" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
     <SUITE FILE_PATH="coverage/ITS320_CLASS$ITS320_CTA3_OPTION2.coverage" NAME="ITS320-CTA3-OPTION2 Coverage Results" MODIFIED="1714972714112" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
+    <SUITE FILE_PATH="coverage/ITS320_CLASS$ITS320_CTA5_OPTION2.coverage" NAME="ITS320-CTA5-OPTION2 Coverage Results" MODIFIED="1716500162790" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
   </component>
 </project>
