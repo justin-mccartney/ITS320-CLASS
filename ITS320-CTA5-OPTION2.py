@@ -34,10 +34,6 @@ def process_strings(string_one, string_two, string_three):
     # Creating the concatenated string
     concatenated_string = string_one + " " + string_two
 
-    # Creating and printing string three, in reverse
-    reversed_string_three = string_three[::-1]
-    print("Reversed String 3: ", reversed_string_three)
-
     # Returning the concatenated string
     return concatenated_string
 
@@ -46,6 +42,10 @@ def main():
     string_one = input("Enter your first string: ")
     string_two = input("Enter your second string: ")
     string_three = input("Enter your third string: ")
+
+    # Creating and printing string three, in reverse
+    reversed_string_three = string_three[::-1]
+    print("Reversed String 3: ", reversed_string_three)
 
     # Calling the strings function, and input the three user inputs
     result = process_strings(string_one, string_two, string_three)
